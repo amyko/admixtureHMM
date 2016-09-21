@@ -1,0 +1,4 @@
+ind1_hap1	1	5	
+ind1_hap2	
+ind2_hap1	
+ind2_hap2	
